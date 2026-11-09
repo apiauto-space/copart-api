@@ -143,9 +143,7 @@ print(extra.get("source_values"))
 
 - [Copart API on apiauto.space](https://apiauto.space/en/copart-api/) and the [API documentation](https://apiauto.space/en/docs/)
 - [`apiauto-space`](https://pypi.org/project/apiauto-space/): the general client for all markets
-- Clients for the other sources: [`encar-api`](https://pypi.org/project/encar-api/),
-  [`che168-api`](https://pypi.org/project/che168-api/), [`copart-api`](https://pypi.org/project/copart-api/),
-  [`iaai-api`](https://pypi.org/project/iaai-api/)
+- Clients for the other sources: [`encar-api-client`](https://pypi.org/project/encar-api-client/), [`che168-api`](https://pypi.org/project/che168-api/), [`iaai-api`](https://pypi.org/project/iaai-api/)
 - [Examples in curl, Python, JavaScript and PHP](https://github.com/apiauto-space/copart-api-examples)
 - The JavaScript version of this client: [`copart-api` on npm](https://www.npmjs.com/package/copart-api)
 
