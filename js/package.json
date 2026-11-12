@@ -1,6 +1,6 @@
 {
   "name": "copart-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Copart API client for JavaScript and TypeScript: Copart auction lots (USA) with VIN, damage and sale date as JSON, from the apiauto.space team",
   "keywords": ["copart", "copart-api", "car-auction", "salvage-cars", "usa", "vin", "used-cars", "vehicle-data", "api-client", "typescript"],
   "homepage": "https://apiauto.space/en/copart-api/",

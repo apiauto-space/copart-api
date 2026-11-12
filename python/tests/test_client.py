@@ -46,7 +46,7 @@ def test_constants() -> None:
     assert copart_api.MARKET == "us"
     assert copart_api.SOURCE == "copart"
     assert copart_api.SHARED_MARKET is True
-    assert copart_api.__version__ == "0.1.0"
+    assert copart_api.__version__ == "0.1.1"
 
 
 def test_cars_presets_the_market() -> None:
